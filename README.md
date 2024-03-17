@@ -5,7 +5,7 @@ GETITDONE is responsve and basic todolist App | TODO LIST WEBAPP
 
 #### clone the project
 ```
-  git clone git@github.com:Ankur-Ydv/GETITDONE.git
+  git clone git@github.com:NikhilSuhag/GetItDone.git
 ```
 
 #### Install dependencies for Both Frontend and Backend
@@ -25,4 +25,4 @@ GETITDONE is responsve and basic todolist App | TODO LIST WEBAPP
 
 ## MADE BY
 
-[Ankur Yadav](https://github.com/Ankur-Ydv)
+[Nikhil Suhag](https://github.com/NikhilSuhag)
